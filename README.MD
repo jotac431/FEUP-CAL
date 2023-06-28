@@ -1,3 +1,7 @@
+# WasteApp: recolha seletiva de lixo - Projeto Final CAL 2021
+
+Aplicação para a gestão doméstica da recolha seletiva de resíduos.
+
 ## Modo de teste do programa:
 
 - Após clicar run irá ser feito um loading do parser;
